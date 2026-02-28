@@ -42,8 +42,8 @@ corr_matrix = df_numeric.corr(method="spearman")
 
 # custom red (+) to green (-) gradient WITHOUT forcing white at 0
 cmap = LinearSegmentedColormap.from_list(
-    "red_green",
-    ["#0a7f2e", "#4cc26c", "#c9eac8", "#f4b0a7", "#d73027"]
+    "blue_red",
+    ["blue","white","red"]
 )
 
 plt.figure(figsize=(14, 12))
