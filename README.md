@@ -1,12 +1,13 @@
 # Personal_Finance_Group26
-Goal: 1. Visualizing how how financial pressures evolve from early adulthood through mid-life.
+
+Goal: 1. Visualizing how financial pressures evolve from early adulthood through mid-life.
       2. Create a predictive model such that we can predict financial pressures of mid-life people from their early adulthood financial situation.
 
-Defination: Financial Pressures: a combination value of Mortgage Debt, Student Loan Debt Credit Card Debt and Line of Credit Debt (shorten as PWDs)
+Definition: Financial Pressures: a combination value of Mortgage Debt, Student Loan Debt Credit Card Debt and Line of Credit Debt (shorten as PWDs)
 
 Process:
 1. Data Processing:
-    1) Find ralated variables by checking correlations between variables and PWDs
+    1) Find related variables by checking correlations between variables and PWDs
     2) Clean variables (process abnormal data, record them and show how to deal with them)
     3) Produce coefficients needed by modelling section
 2. Modelling:
