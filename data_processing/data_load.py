@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = "/Users/jingyongzhe/Downloads/SDSS Datathon Cases/Personal Finance/personal_finance_dataset.xlsx"
+file_path = r"C:\Users\Wendy\Desktop\personal_finance_dataset.xlsx"
 
 df = pd.read_excel(
     file_path,
